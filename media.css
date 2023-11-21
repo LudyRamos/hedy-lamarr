@@ -1,0 +1,41 @@
+@media (max-width:1600px) {
+   section {
+    padding: 100px 5% 80px;
+   }
+}
+
+@media (max-width: 1200px){
+    .home{
+        min-height: 90vh;
+    } 
+}
+
+@media (max-width: 1060px) {
+    .hedy {
+        grid-template-columns: 1fr;
+   }
+
+   div > img {
+    text-align: center;
+    order: 2;
+    max-width: 100%;
+    width: 600px;
+    height: auto;
+   }
+
+   .infos {
+     grid-template-columns: repeat(auto-fit, minmax(350px, auto));
+   }
+}
+
+@media (max-width: 660px){
+    .home{
+        min-height: 80vh;
+    }
+
+    .home-text h1{
+        font-size: 18px;
+        word-spacing: 10px;
+        margin-bottom: 30px;
+    }
+}

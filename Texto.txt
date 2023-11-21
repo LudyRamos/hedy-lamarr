@@ -1,0 +1,26 @@
+Hedy Lamarr
+wi-fi
+
+Did you know that the person who invented wifi was a woman, a Hollywood actress, who inspired Snow White's face and who created the first female orgasm scene in the history of cinema? Let's not talk about the film Ectsasy, which as you know was probably a scandal...
+Hedy Lammar was born in Austria in 1914, was a successful actress, married to an abusive man, who supplied weapons to Nazis in the Second World War, a friend of Hitler... and his wife was Jewish.
+But, during a party, he fled to the USA and returned to doing what he loved.
+The actress had another passion, which was science and technology, and because she was very studious, during a duet on the piano, Hedy began to alternate the instrument's controls, realizing that the constant exchange of frequencies allowed a safe connection between transmitter and receiver without deviation or interception of your messages.
+And that's how she invented Wifi, the same system was used for GPS.
+
+This story tells us a lot: that during wars and/or after particular suffering, extraordinary things are born, that a woman's place is wherever she wants to be stereotypes.
+
+
+Hedy received the lead role in Gustav Machatý's Ecstasy, where she plays a woman neglected by her older, unaffectionate husband. The film became legendary and controversial for showing the actress's face acting out an orgasm, as well as some nude scenes and close-ups of parts of her body. When she became interested in the role, Hedy knew little about filming and, eager for the job, signed the contract without reading the script.Ecstasy became famous and was even awarded at a festival in Rome. Throughout Europe, it was considered a great artistic work. In the United States, however, the film was banned because it was considered immoral and was "degrading to women". It was also banned in Germany due to Hedy's Jewish ancestry.
+
+Hedy Lamarr died in Casselberry, Florida, on January 19, 2000, at age 85. The death certificate cites heart failure, chronic heart valve disease and arteriosclerotic heart disease as the causes of death. As was his wish, his son, Anthony Loder, took his ashes to Austria and scattered them in the Vienna Woods. In 2014, a symbolic tomb was built in Vienna's Central Cemetery
+
+
+A powerful novel, based on an incredible true story of a beautiful woman, a hugely successful actress and brilliant scientist, responsible for the invention that revolutionized modern communication systems Hedy Kiesler is one lucky woman. With her stunning beauty, she gets a prominent role in a relatively successful film. Then follows her marriage to a powerful Austrian arms dealer, which allows her to escape Nazi persecution in the Second World War, even though her Jewish ancestry weighs heavily on her shoulders. But Hedy is also a woman of great intelligence. In the salons and dinner parties of Vienna, no one imagines that that beautiful actress is, in fact, listening to all the plans of the greatest officers of the Third Reich. When she finally manages to escape her controlling husband's castle, she travels to the United States, where she becomes one of the greatest actresses of her time: Hedy Lamarr. At the same time, she decides to use her genius to help the country and, perhaps, expiate some of the guilt she feels for having escaped the horrors of war alone.
+
+
+rascunho 
+
+display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;

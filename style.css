@@ -1,0 +1,163 @@
+@charset 'UTF-8';
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+header {
+    position: fixed;
+    right: 0px;
+    top: 0px;
+    width: 100%;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 22px 16%;
+    border-bottom: 1px solid transparent ;
+    transition: all .40s;
+}
+
+
+
+section{
+    padding: 160px 16% 90px ;
+}
+
+.home{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+    background: url(img/telas\ grandes.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;  
+}
+
+.home-text h1 {
+    margin: 20px 0px;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 1.1;
+    letter-spacing: 3px;
+}
+
+span{
+    color: #960000;
+}
+
+div > img {
+    width: 250px;
+    height: 250px;
+}
+
+.hedy {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    align-items: center;
+    gap: 2em ;
+}
+
+
+h2 {
+    color: #960000;
+    margin: 20px 0px;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 1.1;
+    letter-spacing: 3px
+    
+}
+
+.link {
+    display: inline-block;
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-size: 17px;
+    font-weight: 500;
+    background-color: #960000;
+    color: #FFFFFF;
+    border: solid 1px #960000;
+    transition: 0.5s;
+}
+
+.link:hover{
+    transform: scale(1.01) translateY(-5px);
+    background-color: #FFFFFF;
+    color: #000000;
+}
+
+
+
+.infos {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    align-items: center;
+    gap: 2.2rem;
+    text-align: center;
+    margin-top: 4rem;
+    
+}
+
+.infos h3 {
+    font-size: 30px;
+    color: #960000;
+    margin-bottom: 10px;
+}
+
+.infos p {
+    line-height: 30px;
+    margin-bottom: 1.5rem;
+}
+
+.box {    
+    padding: 25px 18px;
+    background-color: #181818;
+    border-radius: 0.8rem;
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all ease .50s;
+}
+
+.box:hover {
+    transform: scale(1.01) translateY(-5px);
+    border-top: 5px solid #960000;
+}
+
+.box:hover > h3 {
+    color: #960000;
+}
+
+.aqui {
+    display: inline-block;
+    padding: 5px 20px;
+    background: #960000;
+    color: #000000;
+    font-size: 15px;
+    font-weight: 500;
+    border: 2px solid #960000;
+    border-radius: 2rem;
+    transition: all ease 1s;
+}
+
+.aqui:hover {
+    transform: scale(1.3);
+    background: transparent;
+}
+
+
+
+
+
+
+    
